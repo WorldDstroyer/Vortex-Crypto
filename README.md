@@ -30,7 +30,7 @@ Advanced Encryption Standard, or "AES" for short, is a symmetric encryption algo
 # Source:
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 
-An original driving force behind the inception of this program was that I, WorldDstroyer, wanted a way to easily encrypt communications and local data to my leisure. It was also a big desire of mine to be able to write a program/tool that can be used as a legitimately secure locally-stored password manager. If there are any questions or concerns regarding this software, please contact be at the email below.
+An original driving force behind the inception of this program was that I, WorldDstroyer, wanted a way to easily encrypt communications and local data to my leisure. It was also a big desire of mine to be able to write a program/tool that can be used as a legitimately secure locally-stored password manager. If there are any questions or concerns regarding this software, please contact me at the email below.
 
 # Contact:
 - Email: worlddstroyermail@gmail.com
