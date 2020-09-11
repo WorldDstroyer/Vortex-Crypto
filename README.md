@@ -10,11 +10,12 @@ The purpose of this program is to be able to access cryptographic standards, met
 This program utilizes the Python libraries PyCryptodome, and Tkinter, in order to assist in this purpose. While this program was made using the Windows 10 64-bit operating system, the included Python libraries (used to construct the graphical user interface) should function as normal on a Linux-based OS.
 
 The SHA-512 hashes for every version of Vortex Crypto should be provided on its GitHub page (the executable, specifically). If you've downloaded this program, be absolutely sure that the hashes match, to verify that your executable is the same as the one provided. This can be done, on Windows, using the terminal command:
-# | certutil -hashfile Vortex-Crypto-1.0.0.exe sha512 |
+- certutil -hashfile Vortex-Crypto-1.0.0.exe sha512
+
 Be advised that this program may trigger false positives with antivirus software. Particularly, the following antivirus software modules have been noted to routinely flag PyInstaller programs:
-# - Windows Defender
-# - AVG Antivirus
-# - McAfee Antivirus
+- Windows Defender
+- AVG Antivirus
+- McAfee Antivirus
 These may be safely ignored, as long as the program has been downloaded directly from its GitHub repository, and the hashes have been verified to match.
 
 # The security of the Advanced Encryption Standard (AES):
@@ -31,7 +32,10 @@ https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 
 An original driving force behind the inception of this program was that I, WorldDstroyer, wanted a way to easily encrypt communications and local data to my leisure. It was also a big desire of mine to be able to write a program/tool that can be used as a legitimately secure locally-stored password manager. If there are any questions or concerns regarding this software, please contact be at the email below.
 
-# Contact: worlddstroyermail@gmail.com
+# Contact:
+- Email: worlddstroyermail@gmail.com
+- Twitter: https://twitter.com/WorldDstroyer
+- Discord: https://discord.gg/YtsnpuW
 
 By the way, I would be joyed if a real cryptography researcher were to analyze this program, and potentially provide helpful insight into the improvement of the performance and function of this tool's features.
 
