@@ -16,6 +16,7 @@ Be advised that this program may trigger false positives with antivirus software
 - Windows Defender
 - AVG Antivirus
 - McAfee Antivirus
+
 These may be safely ignored, as long as the program has been downloaded directly from its GitHub repository, and the hashes have been verified to match.
 
 # The security of the Advanced Encryption Standard (AES):
