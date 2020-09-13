@@ -7,7 +7,7 @@ This document is a nearly identical mirror of the program's README.md file.
 - The Terms of Use for this program may be found at the bottom of this document.
 
 The purpose of this program is to be able to access cryptographic standards, methods, and algorithms, (primarily encryption) in order to enhance the security of information.
-This program utilizes the Python libraries PyCryptodome, and Tkinter, in order to assist in this purpose. While this program was made using the Windows 10 64-bit operating system, the included Python libraries (used to construct the graphical user interface) should function as normal on a Linux-based OS.
+This program utilizes the Python libraries PyCryptodome, and PyQt5, in order to assist in this purpose. While this program was made using the Windows 10 64-bit operating system, the included Python libraries (used to construct the graphical user interface) should function as normal on a Linux-based OS.
 
 The SHA-512 hashes for every version of Vortex Crypto should be provided on its GitHub page (the executable, specifically). If you've downloaded this program, be absolutely sure that the hashes match, to verify that your executable is the same as the one provided. This can be done, on Windows, using the terminal command:
 - certutil -hashfile Vortex-Crypto-1.0.0.exe sha512
