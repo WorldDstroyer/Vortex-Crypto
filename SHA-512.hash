@@ -1,7 +1,10 @@
 Notice: Each executable is built using Python 3.8.5, and PyInstaller 4.0.
+Build Command (Windows): "pyinstaller.exe --onefile --icon=Vortex-Icon.ico --windowed Vortex-Crypto-1.1.0.py"
+Hash Command (Windows): "certutil -hashfile Vortex-Crypto-1.1.0.exe sha512"
+
 - Version History Digest, Vortex-Crypto (SHA-512) -
 1.0.0: 9cb016ea28d7a499e03ba6e41db1ce69b977cfa966dcf7ea99b56ee7930ab20bb625ed3ad87cbd081eaae512194387c88d1dfc4de23dda36043849ccce9b0316
-1.1.0: ()
+1.1.0: 3f999fe070ac9bfc9d54573d05c2e3d24de9868e163ca7810c1257568f0d4ef4d1af2fb4357ed50b4f4237fd62954299955cd3a468d712efdd5f503c08ce1dd1
 
 - Version History Digest, Vortex-Crypto-Rewrite (SHA-512) -
 1.0.0: ()
