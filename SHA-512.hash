@@ -1,7 +1,7 @@
 Notice: Each executable is built using Python 3.8.5, and PyInstaller 4.0.
 - Version History Digest, Vortex-Crypto (SHA-512) -
 1.0.0: 9cb016ea28d7a499e03ba6e41db1ce69b977cfa966dcf7ea99b56ee7930ab20bb625ed3ad87cbd081eaae512194387c88d1dfc4de23dda36043849ccce9b0316
-1.0.1: ()
+1.1.0: ()
 
 - Version History Digest, Vortex-Crypto-Rewrite (SHA-512) -
 1.0.0: ()
