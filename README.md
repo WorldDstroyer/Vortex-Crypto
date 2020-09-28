@@ -1,4 +1,4 @@
-# Vortex-Crypto
+# Vortex-Crypto-Rewrite
 An open-source Python program for encrypting and decrypting data, using the PyCryptodome and TkInter libraries. The Vortex-Crypto-Rewrite branch will use the PyQt5 library, rather than TkInter.
 
 This document is a nearly identical mirror of the program's README.md file.
