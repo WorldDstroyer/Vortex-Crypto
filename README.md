@@ -1,5 +1,5 @@
-# Vortex-Crypto
-An open-source Python program for encrypting and decrypting data, using the PyCryptodome and TkInter libraries.
+# Vortex-Crypto-CLI
+An open-source Python program for encrypting and decrypting data, using the PyCryptodome library.
 
 This document is a nearly identical mirror of the program's README.md file.
 
