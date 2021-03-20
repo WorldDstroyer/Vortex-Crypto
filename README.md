@@ -1,7 +1,7 @@
 # Vortex-Crypto-CLI
 An open-source Python program for encrypting and decrypting data, using the PyCryptodome library.
 
-This document is a nearly identical mirror of the program's README.md file.
+This document is a nearly-identical mirror of the program's README.md file.
 
 Note: Take the time to look through all of these issue tickets and you'll notice that PyInstaller just has reoccurring issues regarding false virus flagging.
 https://github.com/pyinstaller/pyinstaller/issues?utf8=%E2%9C%93&q=is%3Aissue+virus
